@@ -22,5 +22,6 @@ https://github.com/sebastianstarke/AI4Animation
 
 
 learning to walk in minutes using massively parallel deep reinforcement learning
+https://arxiv.org/abs/2109.11978
 
 
