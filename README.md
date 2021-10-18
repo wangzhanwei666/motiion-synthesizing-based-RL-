@@ -21,5 +21,6 @@ SIGGRAPH 2021的文章，Neural Animation Layering for Synthesizing Martial Arts
 https://github.com/sebastianstarke/AI4Animation
 
 
+learning to walk in minutes using massively parallel deep reinforcement learning
 
 
